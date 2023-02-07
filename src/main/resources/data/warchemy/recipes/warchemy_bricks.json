@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "WB",
+    "BW"
+  ],
+  "key": {
+    "W": {
+      "item": "warchemy:warchemy_powder"
+    },
+    "B": {
+      "item": "minecraft:brick"
+    }
+  },
+  "result": {
+    "item": "warchemy:warchemy_bricks"
+  }
+}

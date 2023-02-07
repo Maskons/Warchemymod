@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    "warchemy:warchemy_bricks",
+    "warchemy:warchemy_ore"
+  ]
+}

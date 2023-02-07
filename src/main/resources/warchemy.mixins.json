@@ -1,0 +1,14 @@
+{
+	"required": true,
+	"minVersion": "0.8",
+	"package": "com.maskon.warchemy.mixin",
+	"compatibilityLevel": "JAVA_17",
+	"mixins": [],
+	"client": [
+		"TitleScreenMixin",
+      "PlayerMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}

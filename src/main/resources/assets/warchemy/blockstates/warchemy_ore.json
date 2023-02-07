@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": { "model": "warchemy:block/warchemy_ore" }
+  }
+}
